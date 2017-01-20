@@ -18,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		2C85E48A309483DF04E8CF89 /* libPods-SwpMasonryToolsDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SwpMasonryToolsDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D07A5101E31F8720087B6EE /* SwpMasonryToolsHeader.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwpMasonryToolsHeader.h; sourceTree = "<group>"; };
 		2D23E1B21E2E1CE0006879D4 /* SwpMasonryToolsDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwpMasonryToolsDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D23E1B61E2E1CE0006879D4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2D23E1B81E2E1CE0006879D4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -92,6 +93,7 @@
 			children = (
 				2DE6E5FE1E2E33F100FD01DE /* SwpMasonryTools.h */,
 				2DE6E5FF1E2E33F100FD01DE /* SwpMasonryTools.m */,
+				2D07A5101E31F8720087B6EE /* SwpMasonryToolsHeader.h */,
 			);
 			name = SwpMasonryTools;
 			path = ../../SwpMasonryTools;

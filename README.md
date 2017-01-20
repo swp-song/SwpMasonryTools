@@ -6,7 +6,8 @@
 手动导入：
 
 SwpMasonryTools 文件夹 导入 项目 中, 依赖  Masonry 自动布局框架
-#import "SwpMasonryTools.h"
+#import "SwpMasonryToolsHeader.h"
+
 ```
 ---
 
@@ -18,18 +19,21 @@ pod search SwpMasonryTools
 
 pod 'SwpMasonryTools'
 
-#import <SwpMasonryTools/SwpMasonryTools.h>
+#import <SwpMasonryTools/SwpMasonryToolsHeader.h>
 
 ```
----
 
 ---
+##### 效果：
+![(图片轮播效果)](https://raw.githubusercontent.com/swp-song/SwpMasonryTools/master/Screenshot/SwpMasonryTools.gif)
+---
 
-##### 2.0.0 更新:
+
+##### 1.0.2 更新:
 ```Objective-C
-1. 2017-01-17 20:22:53
+1. 2017-01-20 15:50:41
 
-2. 第一次 上传
+2. 新增 头文件
 
 ```
 ---

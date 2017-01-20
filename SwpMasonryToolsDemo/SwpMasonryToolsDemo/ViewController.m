@@ -10,13 +10,14 @@
 #import "ViewController.h"
 
 #import <Masonry/Masonry.h>
-#import "SwpMasonryTools.h"
+
+#import "SwpMasonryToolsHeader.h"
 
 @interface ViewController ()
 
 
 @property (nonatomic, strong) UIButton *topView;
-@property (nonatomic, strong) UIView *bottomView;
+@property (nonatomic, strong) UIView   *bottomView;
 
 @property (nonatomic, copy) NSArray<UIView *> *views;
 
